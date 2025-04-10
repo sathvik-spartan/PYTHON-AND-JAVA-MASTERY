@@ -164,9 +164,6 @@ Each week includes theory + **5 LeetCode practice problems**.
 
 ---
 
-## 📁 Recommended Folder Structure for GitHub
-
-
 
 ## Resources 
 
